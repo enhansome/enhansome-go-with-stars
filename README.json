@@ -1,0 +1,677 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Actor Model"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Artificial Intelligence"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Audio and Music"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Authentication and Authorization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Blockchain"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bot Building"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Build Automation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Advanced Console UIs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Standard CLI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Configuration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Continuous Integration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CSS Preprocessors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data Integration Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bit-packing and Compression"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bit Sets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bloom and Cuckoo Filters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data Structure and Algorithm Collections"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Iterators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Maps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Miscellaneous Data Structures and Algorithms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nullable Types"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Queues"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Trees"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pipes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Caches"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Databases Implemented in Go"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Database Schema Migration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Database Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SQL Query Builders"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Interfaces to Multiple Backends"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Relational Database Drivers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NoSQL Database Drivers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Search and Analytic Databases"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Date and Time"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Distributed Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dynamic DNS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Email"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Embeddable Scripting Languages"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Error Handling"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "File Handling"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Financial"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Forms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Functional"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Game Development"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Geographic"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Go Compilers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Goroutines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GUI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardware"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Images"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IoT (Internet of Things)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Job Scheduler"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "JSON"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Logging"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Messaging"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Microsoft Office"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Microsoft Excel"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Microsoft Word"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dependency Injection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Project Layout"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Strings"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Uncategorized"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Language Detection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Morphological Analyzers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Slugifiers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tokenizers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Translation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Transliteration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Networking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "HTTP Clients"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "OpenGL"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ORM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Package Management"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Performance"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Query Language"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Reflection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resource Embedding"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Science and Data Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Serialization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Server Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Stream Processing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Template Engines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Testing Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mock"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fuzzing and delta-debugging/reducing/shrinking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Selenium and browser control tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fail injection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Formatters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Markup Languages"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Parsers/Encoders/Decoders"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Regular Expressions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sanitation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scrapers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RSS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Utility/Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Third-party APIs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "UUID"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Validation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Version Control"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Middlewares"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Routers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "WebAssembly"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Webhooks Server"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Windows"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Workflow Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "XML"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Zero Trust"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Code Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Editor Plugins"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Go Generate Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Go Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DevOps Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other Software"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Conferences"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "E-books for purchase"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Free e-books"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Gophers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Meetups"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Style Guides"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Twitter"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Reddit"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Websites"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Guided Learning"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:02.312Z",
+    "original_repository": "amanbolat/awesome-go-with-stars",
+    "original_repository_sha": "650612501caf9528316fa6648d319de790dc78d6",
+    "enhanced_repository": "enhansome/enhansome-go-with-stars",
+    "enhanced_repository_description": null,
+    "title": "Awesome Go with stars"
+  }
+}
